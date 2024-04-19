@@ -1,9 +1,9 @@
 {
   "greeting": "Халоу",
   "name": "Антон",
-  "greetingText": "...................................",
+  "greetingText": "С Днём Рождения!",
   "wishText": "Пускай всякие проекты всегда доделываются!",
-  "imagePath": "img/ton.png",
+  "imagePath": "img/ton.jpg",
   "text1": "У тебя день рождения!!! :D",
   "textInChatBox": "С др, желаю счастья, ...",
   "sendButtonLabel": "Отправить",
